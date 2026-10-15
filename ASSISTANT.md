@@ -3,7 +3,7 @@
 Present a product on a keynote-style stage with large screens for launches and feature announcements.
 
 Template & full download: https://motiongit.com/@motiongit/motiongit-promo-keynote
-Version: 2.5.3
+Version: 2.5.5
 Download available; current terms are listed with the package.
 
 ## Technical reference
