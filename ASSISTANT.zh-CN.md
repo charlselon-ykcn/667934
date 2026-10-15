@@ -3,7 +3,7 @@
 以发布会舞台和大屏展示组织产品演示，适合新品介绍、功能发布与品牌展示。
 
 模板与完整下载: https://motiongit.com/@motiongit/motiongit-promo-keynote
-版本: 2.5.2
+版本: 2.5.3
 下载已开放，当前许可见模板页面与下载包。
 
 ## 技术资料
