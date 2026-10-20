@@ -5,20 +5,20 @@
   "owner": "motiongit",
   "slug": "motiongit-promo-keynote",
   "website": "https://motiongit.com/@motiongit/motiongit-promo-keynote",
-  "version": "2.6.2",
+  "version": "2.6.4",
   "technical": {
     "en": [
       "Declared runtime profile: html-canvas/1.",
       "Editable inputs are mapped through the template parameter schema and preset to its existing animation project.",
-      "The declared timeline has a fixed duration; new content fits its existing scene order and timing."
+      "The declared duration policy follows the current content; the package plan determines final timing."
     ],
     "zh": [
       "声明的运行配置：html-canvas/1。",
       "通过模板参数和预设，将本期文字、数据或素材映射到已有动画工程。",
-      "已声明时间轴为固定时长，本期内容按现有场景顺序和节奏适配。"
+      "已声明时长随本期内容适配，最终节奏由包内制作计划确定。"
     ]
   },
-  "checkedAt": "2026-10-19",
+  "checkedAt": "2026-10-20",
   "availability": "download-available",
   "title": {
     "en": "Keynote Stage · Product Demo",
@@ -61,6 +61,16 @@
       "en": "A licensed music track or your preference for music in this production.",
       "zh": "本期已授权配乐，或本期是否需要配乐的偏好。",
       "required": false
+    },
+    {
+      "en": "Current product images, screenshots or display materials supported by the selected media slots.",
+      "zh": "本期产品图片、截图或展示素材，按所选槽位支持的类型准备。",
+      "required": false
+    },
+    {
+      "en": "Your current video clips for the selected scenes or declared media slots. Follow the template's separate source-audio instructions.",
+      "zh": "本期视频片段，按所选场景或声明素材槽位使用；原声按模板的独立音频说明处理。",
+      "required": false
     }
   ],
   "dependencies": [
@@ -85,8 +95,8 @@
     "en": [
       "The documented output is 1920 × 1080, 60 fps. The public demo is 108 seconds.",
       "Use the actual package parameter bounds; extra materials do not automatically create extra scenes.",
-      "Changing the scene order or engine; the frozen original source and timeline remain authoritative.",
-      "Automatic replacement of product images/videos or brand paths/marks: no declared media import slot in this candidate. Preserve fixed demonstration visuals only when they are relevant; otherwise this route is not suitable."
+      "Current native media and complete-scene duration choices are described precisely in CURRENT-MEDIA-CLOCK.md; unrelated engine/layout changes remain unsupported.",
+      "Unlisted whole-brand graphics, new layouts or arbitrary engine/scene logic edits. Native current media uses only the declared windows and complete-scene clock contract."
     ],
     "zh": [
       "已声明输出为 1920 × 1080，60 fps；公开样片 108 秒。",

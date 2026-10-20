@@ -1,12 +1,12 @@
 # Keynote Stage · Product Demo · MotionGit .motion
 
 Template and full package: https://motiongit.com/@motiongit/motiongit-promo-keynote
-Version: 2.6.2
+Version: 2.6.4
 Download available; current terms are listed with the package.
 
 Declared runtime profile: html-canvas/1.
 Editable inputs are mapped through the template parameter schema and preset to its existing animation project.
-The declared timeline has a fixed duration; new content fits its existing scene order and timing.
+The declared duration policy follows the current content; the package plan determines final timing.
 
 Use this .motion template with my content. Obtain the package from https://motiongit.com/@motiongit/motiongit-promo-keynote, extract or load it as documented, read the included README and referenced guide, reuse my working environment, and follow the package workflow to show an actual preview.
 

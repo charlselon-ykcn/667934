@@ -4,7 +4,7 @@
 
 以发布会舞台和大屏展示组织产品演示，适合新品介绍、功能发布与品牌展示。
 
-**16:9 · 1920 × 1080 · 60 fps · v2.6.2** · [@motiongit](https://motiongit.com/@motiongit) · [English](README.md)
+**16:9 · 1920 × 1080 · 60 fps · v2.6.4** · [@motiongit](https://motiongit.com/@motiongit) · [English](README.md)
 
 **[模板详情、完整 .motion 与 Demo](https://motiongit.com/@motiongit/motiongit-promo-keynote)**
 https://motiongit.com/@motiongit/motiongit-promo-keynote
@@ -23,7 +23,7 @@ https://motiongit.com/@motiongit/motiongit-promo-keynote
 
 - 声明的运行配置：html-canvas/1。
 - 通过模板参数和预设，将本期文字、数据或素材映射到已有动画工程。
-- 已声明时间轴为固定时长，本期内容按现有场景顺序和节奏适配。
+- 已声明时长随本期内容适配，最终节奏由包内制作计划确定。
 
 样片时长: **108s**. 已声明输出为 1920 × 1080，60 fps；公开样片 108 秒。 按实际包的参数边界制作；增加素材不会自动增加场景。
 
@@ -32,6 +32,8 @@ https://motiongit.com/@motiongit/motiongit-promo-keynote
 - **必需:** 本期主题、文稿与需要准确保留的信息。
 - **可选:** 本期配音文件，或是否需要配音的安排。
 - **可选:** 本期已授权配乐，或本期是否需要配乐的偏好。
+- **可选:** 本期产品图片、截图或展示素材，按所选槽位支持的类型准备。
+- **可选:** 本期视频片段，按所选场景或声明素材槽位使用；原声按模板的独立音频说明处理。
 
 适用内容: Fixed landscape animation using the listed public text/display-data/palette slots, current narration and independently supplied licensed music.
 

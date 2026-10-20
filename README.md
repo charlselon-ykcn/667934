@@ -4,7 +4,7 @@
 
 Present a product on a keynote-style stage with large screens for launches and feature announcements.
 
-**16:9 · 1920 × 1080 · 60 fps · v2.6.2** · [@motiongit](https://motiongit.com/@motiongit) · [简体中文](README.zh-CN.md)
+**16:9 · 1920 × 1080 · 60 fps · v2.6.4** · [@motiongit](https://motiongit.com/@motiongit) · [简体中文](README.zh-CN.md)
 
 **[Template details, full .motion & demo](https://motiongit.com/@motiongit/motiongit-promo-keynote)**
 https://motiongit.com/@motiongit/motiongit-promo-keynote
@@ -23,15 +23,17 @@ Download available; current terms are listed with the package.
 
 - Declared runtime profile: html-canvas/1.
 - Editable inputs are mapped through the template parameter schema and preset to its existing animation project.
-- The declared timeline has a fixed duration; new content fits its existing scene order and timing.
+- The declared duration policy follows the current content; the package plan determines final timing.
 
-Demo duration: **108s**. The documented output is 1920 × 1080, 60 fps. The public demo is 108 seconds. Use the actual package parameter bounds; extra materials do not automatically create extra scenes. Changing the scene order or engine; the frozen original source and timeline remain authoritative. Automatic replacement of product images/videos or brand paths/marks: no declared media import slot in this candidate. Preserve fixed demonstration visuals only when they are relevant; otherwise this route is not suitable.
+Demo duration: **108s**. The documented output is 1920 × 1080, 60 fps. The public demo is 108 seconds. Use the actual package parameter bounds; extra materials do not automatically create extra scenes. Current native media and complete-scene duration choices are described precisely in CURRENT-MEDIA-CLOCK.md; unrelated engine/layout changes remain unsupported. Unlisted whole-brand graphics, new layouts or arbitrary engine/scene logic edits. Native current media uses only the declared windows and complete-scene clock contract.
 
 ## Inputs and materials
 
 - **Required:** Your topic, script and facts to preserve.
 - **Optional:** The current voice recording or your narration preference for this production.
 - **Optional:** A licensed music track or your preference for music in this production.
+- **Optional:** Current product images, screenshots or display materials supported by the selected media slots.
+- **Optional:** Your current video clips for the selected scenes or declared media slots. Follow the template's separate source-audio instructions.
 
 Useful for: Fixed landscape animation using the listed public text/display-data/palette slots, current narration and independently supplied licensed music.
 
